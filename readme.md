@@ -1,6 +1,6 @@
-Projeto Beneficiário
+Projeto Saude
 
-O Projeto Beneficiário é uma aplicação desenvolvida em Java com o framework Spring Boot para gerenciamento de beneficiários e seus documentos associados.
+O Projeto Saude é uma aplicação desenvolvida em Java com o framework Spring Boot para gerenciamento de beneficiários e seus documentos associados.
 
 -Funcionalidades Principais-
 
